@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td><h4>🧑‍💻 Programming Languages</h4></td>
+    <td><h4> Programming Languages</h4></td>
     <td><h4>🧰 Frameworks & Libraries</h4></td>
     <td><h4>🗄️ Databases</h4></td>
   </tr>
